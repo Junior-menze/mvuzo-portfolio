@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mvuzo-portfolio/static/css/main.13aadf96.css",
+    "main.js": "/mvuzo-portfolio/static/js/main.a7b03665.js",
+    "index.html": "/mvuzo-portfolio/index.html",
+    "main.13aadf96.css.map": "/mvuzo-portfolio/static/css/main.13aadf96.css.map",
+    "main.a7b03665.js.map": "/mvuzo-portfolio/static/js/main.a7b03665.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13aadf96.css",
+    "static/js/main.a7b03665.js"
+  ]
+}
