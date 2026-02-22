@@ -1,7 +1,8 @@
-// tailwind.config.js
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
+    "./public/index.html"
   ],
   theme: {
     extend: {
@@ -19,7 +20,6 @@ module.exports = {
       fontFamily: {
         sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
       },
-      // Add these animation keyframes
       animation: {
         'spin-slow': 'spin 8s linear infinite',
         'spin-reverse': 'spinReverse 10s linear infinite',
