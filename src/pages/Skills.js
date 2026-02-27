@@ -1,11 +1,9 @@
 // src/pages/Skills.js
 import React from 'react';
 import { 
-  FaCode, 
   FaDatabase, 
   FaLaptopCode, 
   FaTools,
-  FaCloud,
   FaServer
 } from 'react-icons/fa';
 
